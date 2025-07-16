@@ -1,0 +1,9 @@
+{
+	"name": "com.moonymachine.abstractservicelocator",
+	"version": "1.0.0",
+	"displayName": "Abstract Service Locator",
+	"description": "This is an abstract service locator to facilitate dependency injection when constructors are unavailable.",
+	"unity": "2018.3",
+	"author": { "name": "Moony Machine" },
+	"license": "MIT"
+}
